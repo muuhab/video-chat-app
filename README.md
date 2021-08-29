@@ -1,7 +1,7 @@
 # video-chat-app
 ## Features
 
-- Video chating one-to-one
+- Video chatting one-to-one
 
 ## Tech
 
